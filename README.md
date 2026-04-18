@@ -43,6 +43,6 @@ Focusing on clean code, scalable architecture (GynxArchitecture), and high-perfo
 ### 📊 My GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LDGnx-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Pixel's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LDGnx-dev&layout=compact&theme=tokyonight&hide=html,css" alt="Most Used Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LDGnx-dev&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" alt="LDGnx GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LDGnx-dev&theme=transparent" alt="Most Used Languages" height="180" />
 </p>
