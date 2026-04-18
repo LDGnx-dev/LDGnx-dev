@@ -40,4 +40,6 @@ Focusing on clean code, scalable architecture (GynxArchitecture), and high-perfo
 
 *"Everything is a system, you just have to find the logic behind it."*
 
-[![Fancy Profile Card](https://fancy-readme-stats.vercel.app/api?username=LDGnx-dev&theme=rain&footer=ldgnx-dev@gmail.com&show_icons=true&title=LDGnx&description=Coding%20among%20the%20stars%20&%20sky&include_all_commits=true&show_icons=true)](https://github.com/maximjsx/fancy-readme-stats)
+<p align="center">
+  <img src="https://fancy-readme-stats.vercel.app/api/game-of-life?username=LDGnx-dev&theme=tokyonight&color=bb9af7&include_all_commits=true&hide_border=false" alt="Conway's Game of Life Global" />
+</p>
