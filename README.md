@@ -41,5 +41,5 @@ Focusing on clean code, scalable architecture (GynxArchitecture), and high-perfo
 *"Everything is a system, you just have to find the logic behind it."*
 
 <p align="center">
-  <img src="https://fancy-readme-stats.vercel.app/api/game-of-life?username=LDGnx-dev&theme=tokyonight&color=bb9af7&include_all_commits=true&hide_border=false" alt="Conway's Game of Life Global" />
+  <img src="https://raw.githubusercontent.com/X-ray-1/X-ray-1/master/assets/game-of-life.gif" width="600" alt="Conway's Game of Life">
 </p>
