@@ -39,10 +39,8 @@ Focusing on clean code, scalable architecture (GynxArchitecture), and high-perfo
 - 📍 **Based in:** ~ Somewhere
 
 *"Everything is a system, you just have to find the logic behind it."*
-<p align="center">
-  <i>"📊 LGDnx Statistic's"</i>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LDGnx-dev&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" alt="LDGnx GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LDGnx-dev&theme=transparent" alt="Most Used Languages" height="180" />
-</p>
+
+###📊 LGDnx Statistic's
+
+<img src="https://github-readme-stats.vercel.app/api?username=LDGnx-dev&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" alt="LDGnx GitHub Stats" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LDGnx-dev&theme=transparent" alt="Most Used Languages" height="180" />
