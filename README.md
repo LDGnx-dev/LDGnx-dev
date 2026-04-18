@@ -40,4 +40,6 @@ Focusing on clean code, scalable architecture (GynxArchitecture), and high-perfo
 
 *"Everything is a system, you just have to find the logic behind it."*
 
-![Game of Life](https://raw.githubusercontent.com/LDGnx-dev/output/game-of-life.svg)
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF4ZzZ4eXZ6ZzR4eXZ6ZzR4eXZ6ZzR4eXZ6ZzR4eXZ6ZzR4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4VVXAYNfX_uY9NlK8N/giphy.gif" width="400">
+</p>
