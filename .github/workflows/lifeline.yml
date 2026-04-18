@@ -1,0 +1,14 @@
+name: GitHub Lifeline
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: rebelot/github-lifeline@master
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          colors: "#1a1b26, #24283b, #bb9af7"
