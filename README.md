@@ -40,6 +40,4 @@ Focusing on clean code, scalable architecture (GynxArchitecture), and high-perfo
 
 *"Everything is a system, you just have to find the logic behind it."*
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF4ZzZ4eXZ6ZzR4eXZ6ZzR4eXZ6ZzR4eXZ6ZzR4eXZ6ZzR4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4VVXAYNfX_uY9NlK8N/giphy.gif" width="400">
-</p>
+[![Fancy Profile Card](https://fancy-readme-stats.vercel.app/api?username=LDGnx-dev&theme=beach&footer=ldgnx-dev@gmail.com&show_icons=true&title=Your%20name&description=Your%20description&include_all_commits=true&show_icons=true)](https://github.com/maximjsx/fancy-readme-stats)
