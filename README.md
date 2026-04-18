@@ -40,6 +40,9 @@ Focusing on clean code, scalable architecture (GynxArchitecture), and high-perfo
 
 *"Everything is a system, you just have to find the logic behind it."*
 
+### 📊 My GitHub Statistics
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/X-ray-1/X-ray-1/master/assets/game-of-life.gif" width="600" alt="Conway's Game of Life">
+  <img src="https://github-readme-stats.vercel.app/api?username=LDGnx-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Pixel's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LDGnx-dev&layout=compact&theme=tokyonight&hide=html,css" alt="Most Used Languages" height="180" />
 </p>
