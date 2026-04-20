@@ -46,6 +46,6 @@ Focusing on clean code, scalable architecture (GynxArchitecture), and high-perfo
 <img src="https://github-readme-stats.vercel.app/api?username=LDGnx-dev&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" alt="LDGnx GitHub Stats" height="180" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LDGnx-dev&layout=compact&theme=transparent" alt="Most Used Languages" height="180" />
 </p>
-<p align=center>
+<p>
 <img src=https://g-lyfe-api.vercel.app/api/life.gif alt="GynxLife Evolution">
 </p>
